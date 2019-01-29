@@ -1,3 +1,3 @@
-# K-means_GNN
+# K-means_GMM
 Implementacja algorytmów klasteryzacji: K-mean oraz Gaussian Mixture Model.
 
