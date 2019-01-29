@@ -1,2 +1,3 @@
 # K-mean_GNN
-Implementacja algorytmówklasteryzacji
+Implementacja algorytmówk lasteryzacji: K-mean oraz Gaussian Mixture Model.
+
